@@ -88,7 +88,7 @@ Unlike policies for domains of single roles (see section 2.3), policies for chan
 
 ### 3.2 CIRCLE LEAD LINK
 
-Each circle has a **lead link role** (see Appendix A) which holds the following additional responsibilities and authorities:
+Each circle has a **lead link role** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)) which holds the following additional responsibilities and authorities:
 
 #### 3.2.1 INHERITS CIRCLE ROLE
 
@@ -130,7 +130,7 @@ When you fill a role, you may resign from the role at any time, unless you've ag
 
 ### 3.4 ELECTED ROLES
 
-Each circle includes **three elected roles** : A **facilitator** , a **secretary** and a **rep link** (see Appendix A).
+Each circle includes **three elected roles** : A **facilitator** , a **secretary** and a **rep link** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)).
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
@@ -156,7 +156,7 @@ A substitute may temporarily fill an elected role when one is unfilled, or when 
 
 ### 3.6 SUB-CIRCLES
 
-A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle** , with the original circle as its **super-circle**. The lead link of the super-circle may specify who fills the lead link role of the sub-circle, following the rules in section 3.3. Furthermore, each sub-circle elects a rep link (see Appendix A), which cannot be the same person as the lead link.
+A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle** , with the original circle as its **super-circle**. The lead link of the super-circle may specify who fills the lead link role of the sub-circle, following the rules in section 3.3. Furthermore, each sub-circle elects a rep link (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)), which cannot be the same person as the lead link.
 
 ### 3.6.1 MODIFYING SUB-CIRCLES
 
@@ -166,7 +166,7 @@ A super-circle may modify the purpose, domain, or accountabilities of a sub-circ
 
 The top-most circle of Nothing Interactive is the so-called **"general rocket circle" (GRC).** The general rocket circle encompasses all other circles and roles. It holds the purpose of Nothing Interactive (Article I). The GRC may update and adapt this purpose using the governance process (Article IV). Note however that it must follow the special rules for changing the constitution (section 6.2) to do so, because Nothing Interactive's purpose is part of the constitution. The GRC controls all domains of Nothing Interactive which have not been allocated to another role. It defines its own accountabilities through the governance process.
 
-The GRC has **no lead link**. All decisions which would normally be taken by the lead link (see Appendix A) go through the circle's governance process. All roles which are directly within the GRC are circle members of the GRC and take part in the governance process. The GRC may use a policy to exclude minor roles from the governance process.
+The GRC has **no lead link**. All decisions which would normally be taken by the lead link (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)) go through the circle's governance process. All roles which are directly within the GRC are circle members of the GRC and take part in the governance process. The GRC may use a policy to exclude minor roles from the governance process.
 
 The GRC allocates domains to its sub-circles and its single roles. Unlike in regular circles, circle members of the GRC are only allowed to impact a domain of the GRC if it has been allocated to them, otherwise, decisions concerning GRC domains must go through the GRC's governance process.
 
