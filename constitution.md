@@ -130,7 +130,7 @@ When you fill a role, you may resign from the role at any time, unless you've ag
 
 ### 3.4 ELECTED ROLES
 
-Each circle includes **three elected roles** : A **facilitator** , a **secretary** and a **rep link** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)).
+Each circle includes **four elected roles** : A **facilitator** , a **secretary**, a **rep link** and an **OKR agent** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)).
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
@@ -433,8 +433,7 @@ The ratifier or their successor may revoke this constitution entirely, using wha
  - Structuring the governance of the circle so that it can enact its purpose and accountabilities 
  - Assigning crew members to the circle's roles; monitoring the fit; offering feedback to enhance fit; and re-assigning roles to other crew members when useful for enhancing fit 
  - Allocating the circle's resources across its various roles 
- - Establishing priorities and strategies for the circle 
- - Defining metrics for the circle 
+ - Establishing priorities and strategies for the circle
  - Removing constraints within the circle as a reaction to the super-circle enacting its purpose and accountabilities 
 
 The lead link also holds all un-delegated circle-level domains and accountabilities.
@@ -462,6 +461,16 @@ The lead link also holds all un-delegated circle-level domains and accountabilit
  - Scheduling the circle's required meetings, and notifying all circle members of these meetings 
  - Capturing and publishing the outputs of the circle's required meetings, and maintaining a compiled view of the circle's current governance, checklist items, and metrics 
  - Interpreting governance and the constitution upon request
+- ACCOUNTABILITY specific to the secretary of the GRC:
+ - Organizing quarterly OKR celebration
+
+### OKR AGENT
+
+- PURPOSE: Knowing and fostering the strengths and weaknesses of the circle
+- ACCOUNTABILITIES:
+ - Defining relevant OKR for the circle, where necessary with input from other roles in the circle
+ - Tracking, interpreting and communicating progress of OKR
+ - Evaluating the circle’s progress in general and suggesting course corrections
 
 ## CONSTITUTION ADOPTION DECLARATION
 
