@@ -106,7 +106,7 @@ A circle may not add accountabilities or other functions to its own lead link ro
 
 However, a circle may remove any accountabilities, domains, authorities, or functions of its lead link role, either by placing them on another role within the circle, or by defining an alternate means of enacting them.
 
-![GeneralRocketCircle](./images/GeneralRocketCircle.png)
+![GeneralRocketCircle](./images/GeneralRocketCircle_Diagram_20171005.png)
 
 ### 3.3 ROLE ASSIGNMENT
 
