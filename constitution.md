@@ -474,4 +474,4 @@ The lead link also holds all un-delegated circle-level domains and accountabilit
 
 ## CONSTITUTION ADOPTION DECLARATION
 
-The whole team adopted this constitution as the governance and operating system of Nothing Interactive. In having done so, we all agreed to cede all authority that we hold into the constitution's processes.
+The whole team adopted this constitution as the governance and operating system of Nothing Interactive on April 20, 2017. In having done so, we all agreed to cede all authority that we hold into the constitution's processes.
