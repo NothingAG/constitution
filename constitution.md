@@ -134,7 +134,7 @@ Each circle includes **four elected roles** : A **facilitator** , a **secretary*
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
-The facilitator of each circle will facilitate **regular elections** to elect acircle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the lead link of a circle, who may not be elected as its facilitator or rep link.
+The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the lead link of a circle, who may not be elected as its facilitator, rep link or OKR agent.
 
 #### 3.4.2 ELECTION TERMS & REVISITING
 
