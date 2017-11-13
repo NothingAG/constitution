@@ -130,7 +130,7 @@ When you fill a role, you may resign from the role at any time, unless you've ag
 
 ### 3.4 ELECTED ROLES
 
-Each circle includes **four elected roles** : A **facilitator** , a **secretary**, a **rep link** and an **OKR agent** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)).
+Each circle includes **five elected roles** : A **lead link**, a **facilitator** , a **secretary**, a **rep link**, and an **OKR agent** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)).
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
@@ -138,7 +138,7 @@ The facilitator of each circle will facilitate **regular elections** to elect a 
 
 #### 3.4.2 ELECTION TERMS & REVISITING
 
-During the election process, the facilitator will specify a term for each election. After a term expires, the secretary is responsible for promptly triggering a new election for that elected role. However, even before a term has expired, any circle member may trigger a new election using the process defined in Article IV.
+During the election process, the facilitator will specify a term for each election. For lead links, the election term should be 6 months. After a term expires, the secretary is responsible for promptly triggering a new election for that elected role. However, even before a term has expired, any circle member may trigger a new election using the process defined in Article IV.
 
 #### 3.4.3 CHANGING ELECTED ROLES
 
