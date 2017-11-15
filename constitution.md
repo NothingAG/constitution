@@ -235,7 +235,7 @@ Regardless of the above criteria, an objection is always valid if it expresses t
 
 #### 4.2.5 TESTING OBJECTIONS
 
-The facilitator must test the validity of a claimed objection by askingthe objector questions. The objector must be able to present a reasonable argument for why it meets each criterion in section 4.2.4. The facilitator discards the objection if it fails to stand the test. When assessing the validity of a claimed objection, the facilitator may only judge whether the objector presented the required arguments. The facilitator may not judge an argument's accuracy or the importance of addressing it.
+The facilitator must test the validity of a claimed objection by asking the objector questions. The objector must be able to present a reasonable argument for why it meets each criterion in section 4.2.4. The facilitator discards the objection if it fails to stand the test. When assessing the validity of a claimed objection, the facilitator may only judge whether the objector presented the required arguments. The facilitator may not judge an argument's accuracy or the importance of addressing it.
 
 When an objection is made because a proposal violates the constitution, the facilitator may ask the circle's secretary to interpret if the proposal does indeed violate the constitution. If the secretary rules that it does not, the facilitator must then dismiss the objection.
 
