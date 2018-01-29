@@ -64,7 +64,7 @@ You are only allowed to act within your roles. You can make an exception by taki
 
 If you take individual action, you have to inform the roles affected by your action as soon as possible. You have to explain why you took individual action, and, if necessary, take additional actions to resolve any tensions that were created by your individual action.
 
-After taking individual action, informing those affected always becomes your top-most priority. You may reduce that priority if the lead link of the circle that contains all impacted roles suggests you do so.
+After taking individual action, informing those affected always becomes your top-most priority. You may reduce that priority if the guide of the circle that contains all impacted roles suggests you do so.
 
 If you keep taking the same individual action, you're likely dealing with a tension that must be addressed with the governance process. You are responsible for taking the necessary steps to make that happen.
 
@@ -86,59 +86,59 @@ As a circle member, you may use and impact any domain that is controlled by the 
 
 Unlike policies for domains of single roles (see section 2.3), policies for changing circle domains may only be defined using the governance process. A circle may use a policy to delegate a domain to a single circle member. The circle may revoke or change such policies at any time using the governance process.
 
-### 3.2 CIRCLE LEAD LINK
+### 3.2 CIRCLE GUIDE
 
-Each circle has a **lead link role** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)) which holds the following additional responsibilities and authorities:
+Each circle has a **guide role** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)) which holds the following additional responsibilities and authorities:
 
 #### 3.2.1 INHERITS CIRCLE ROLE
 
-The lead link of a circle holds the overall purpose, accountabilities, and domains of the circle, just as if the circle were only a single role and the lead link filled that role. The lead link may lose accountabilities and domains of the circle when they are delegated to another role in the circle.
+The guide of a circle holds the overall purpose, accountabilities, and domains of the circle, just as if the circle were only a single role and the guide filled that role. The guide may lose accountabilities and domains of the circle when they are delegated to another role in the circle.
 
-The lead link may not define policies that limit the circle's roles, except via the governance process of the circle.
+The guide may not define policies that limit the circle's roles, except via the governance process of the circle.
 
 #### 3.2.2 DEFINES PRIORITIES & STRATEGIES
 
-A circle's lead link may define **relative priorities** for the circle. In addition, the lead link may define a more general strategy or multiple strategies for the circle. Such a strategy is a **heuristic** (=rule-of-thumb) which helps the circle's roles determine priorities on their own.
+A circle's guide may define **relative priorities** for the circle. In addition, the guide may define a more general strategy or multiple strategies for the circle. Such a strategy is a **heuristic** (=rule-of-thumb) which helps the circle's roles determine priorities on their own.
 
-#### 3.2.3 CHANGING THE LEAD LINK ROLE
+#### 3.2.3 CHANGING THE GUIDE ROLE
 
-A circle may not add accountabilities or other functions to its own lead link role, or modify the role's purpose, or remove the role entirely. Such changes can only happen in the circle's super-circle.
+A circle may not add accountabilities or other functions to its own guide role, or modify the role's purpose, or remove the role entirely. Such changes can only happen in the circle's super-circle.
 
-However, a circle may remove any accountabilities, domains, authorities, or functions of its lead link role, either by placing them on another role within the circle, or by defining an alternate means of enacting them.
+However, a circle may remove any accountabilities, domains, authorities, or functions of its guide role, either by placing them on another role within the circle, or by defining an alternate means of enacting them.
 
-![GeneralRocketCircle](./images/GeneralRocketCircle_Diagram_20171005.png)
+![GeneralRocketCircle_Diagram_20180129](./images/GeneralRocketCircle_Diagram_20180129.png)
 
 ### 3.3 ROLE ASSIGNMENT
 
-The lead link of a circle may assign people to fill defined roles in the circle, unless that authority has been limited or delegated. The lead link uses people's individual mission statements to decide which person should fill a role.
+The guide of a circle may assign people to fill defined roles in the circle, unless that authority has been limited or delegated. The guide uses people's individual mission statements to decide which person should fill a role.
 
 #### 3.3.1 UNFILLED ROLES
 
-Whenever a defined role in a circle is unfilled, the circle's lead link is considered to be filling the role.
+Whenever a defined role in a circle is unfilled, the circle's guide is considered to be filling the role.
 
 #### 3.3.2 ASSIGNING ROLES TO MULTIPLE PEOPLE
 
-A lead link may assign multiple people to the same defined role, as long as that will not decrease the clarity of who should enact the accountabilities and authorities of the role in common situations.
+A guide may assign multiple people to the same defined role, as long as that will not decrease the clarity of who should enact the accountabilities and authorities of the role in common situations.
 
-As one way of maintaining that clarity, a lead link may specify a **focus** along with each assignment, which is an area or context for that person to focus on while executing in the role.
+As one way of maintaining that clarity, a guide may specify a **focus** along with each assignment, which is an area or context for that person to focus on while executing in the role.
 
 When a role assignment includes a focus, the purpose, accountabilities, and domains defined for the role apply just within the specified focus for that particular person.
 
 #### 3.3.3 RESIGNATION FROM ROLES
 
-When you fill a role, you may resign from the role at any time, unless you've agreed otherwise, by giving notice to whoever controls assignments to that role – typically, the circle's lead link.
+When you fill a role, you may resign from the role at any time, unless you've agreed otherwise, by giving notice to whoever controls assignments to that role - typically, the circle's guide.
 
 ### 3.4 ELECTED ROLES
 
-Each circle includes **five elected roles** : A **lead link**, a **facilitator** , a **secretary**, a **rep link**, and an **OKR agent** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)).
+Each circle includes **five elected roles** : A **guide**, a **facilitator** , a **interpreter**, a **care taker**, and an **OKR agent** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)).
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
-The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the lead link of a circle, who may not be elected as its facilitator, rep link or OKR agent.
+The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the guide of a circle, who may not be elected as its facilitator, care taker or OKR agent.
 
 #### 3.4.2 ELECTION TERMS & REVISITING
 
-During the election process, the facilitator will specify a term for each election. For lead links, the election term should be 6 months. After a term expires, the secretary is responsible for promptly triggering a new election for that elected role. However, even before a term has expired, any circle member may trigger a new election using the process defined in Article IV.
+During the election process, the facilitator will specify a term for each election. For guides, the election term should be 6 months. After a term expires, the interpreter is responsible for promptly triggering a new election for that elected role. However, even before a term has expired, any circle member may trigger a new election using the process defined in Article IV.
 
 #### 3.4.3 CHANGING ELECTED ROLES
 
@@ -150,13 +150,13 @@ A substitute may temporarily fill an elected role when one is unfilled, or when 
 
 1. (a) someone explicitly specified by the person to be replaced; or
 2. (b) the acting facilitator of the circle; or
-3. (c) the acting secretary of the circle; or
-4. (d) the lead link of the circle; or
+3. (c) the acting interpreter of the circle; or
+4. (d) the guide of the circle; or
 5. (e) the first circle member of the circle to declare he or she is acting as the substitute.
 
 ### 3.6 SUB-CIRCLES
 
-A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle** , with the original circle as its **super-circle**. The lead link of the super-circle may specify who fills the lead link role of the sub-circle, following the rules in section 3.3. Furthermore, each sub-circle elects a rep link (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)), which cannot be the same person as the lead link.
+A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle** , with the original circle as its **super-circle**. The guide of the super-circle may specify who fills the guide role of the sub-circle, following the rules in section 3.3. Furthermore, each sub-circle elects a care taker (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)), which cannot be the same person as the guide.
 
 ### 3.6.1 MODIFYING SUB-CIRCLES
 
@@ -166,7 +166,7 @@ A super-circle may modify the purpose, domain, or accountabilities of a sub-circ
 
 The top-most circle of Nothing Interactive is the so-called **"general rocket circle" (GRC).** The general rocket circle encompasses all other circles and roles. It holds the purpose of Nothing Interactive (Article I). The GRC may update and adapt this purpose using the governance process (Article IV). Note however that it must follow the special rules for changing the constitution (section 6.2) to do so, because Nothing Interactive's purpose is part of the constitution. The GRC controls all domains of Nothing Interactive which have not been allocated to another role. It defines its own accountabilities through the governance process.
 
-The GRC has **no lead link**. All decisions which would normally be taken by the lead link (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)) go through the circle's governance process. All roles which are directly within the GRC are circle members of the GRC and take part in the governance process. The GRC may use a policy to exclude minor roles from the governance process.
+The GRC has **no guide**. All decisions which would normally be taken by the guide (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)) go through the circle's governance process. All roles which are directly within the GRC are circle members of the GRC and take part in the governance process. The GRC may use a policy to exclude minor roles from the governance process.
 
 The GRC allocates domains to its sub-circles and its single roles. Unlike in regular circles, circle members of the GRC are only allowed to impact a domain of the GRC if it has been allocated to them, otherwise, decisions concerning GRC domains must go through the GRC's governance process.
 
@@ -194,9 +194,9 @@ Proposals are considered adopted and change the governance of the circle only if
 
 #### 4.2.1 MAKING PROPOSALS
 
-Any circle member may make a proposal within a **governance meeting** of the circle called under the terms of section 4.3. Alternatively, a circle member may distribute a proposal to all other circle members separately, outside of a governance meeting, using any written communication channel approved for this purpose by the circle's secretary. However, the circle's facilitator should be presented with the proposal first to determine whether it fulfils the criteria for valid proposals (section 4.2.2.).
+Any circle member may make a proposal within a **governance meeting** of the circle called under the terms of section 4.3. Alternatively, a circle member may distribute a proposal to all other circle members separately, outside of a governance meeting, using any written communication channel approved for this purpose by the circle's interpreter. However, the circle's facilitator should be presented with the proposal first to determine whether it fulfils the criteria for valid proposals (section 4.2.2.).
 
-For this separate processing of proposals, the facilitator may either apply the same process and rules used within a governance meeting, or may allow each circle member to directly declare whether or not he or she has objections to integrate. Further, at any point before a separately distributed proposal is adopted, any circle member may stop the separate processing by requesting the proposer escalate the proposal to a governance meeting, and notifying the circle's secretary.
+For this separate processing of proposals, the facilitator may either apply the same process and rules used within a governance meeting, or may allow each circle member to directly declare whether or not he or she has objections to integrate. Further, at any point before a separately distributed proposal is adopted, any circle member may stop the separate processing by requesting the proposer escalate the proposal to a governance meeting, and notifying the circle's interpreter.
 
 A circle may adopt policies to further constrain when or how proposals may be made or processed outside of a governance meeting. However, circle members are always allowed to escalate separate processing of a proposal to a governance meeting, and no policy may change that.
 
@@ -237,7 +237,7 @@ Regardless of the above criteria, an objection is always valid if it expresses t
 
 The facilitator must test the validity of a claimed objection by asking the objector questions. The objector must be able to present a reasonable argument for why it meets each criterion in section 4.2.4. The facilitator discards the objection if it fails to stand the test. When assessing the validity of a claimed objection, the facilitator may only judge whether the objector presented the required arguments. The facilitator may not judge an argument's accuracy or the importance of addressing it.
 
-When an objection is made because a proposal violates the constitution, the facilitator may ask the circle's secretary to interpret if the proposal does indeed violate the constitution. If the secretary rules that it does not, the facilitator must then dismiss the objection.
+When an objection is made because a proposal violates the constitution, the facilitator may ask the circle's interpreter to interpret if the proposal does indeed violate the constitution. If the interpreter rules that it does not, the facilitator must then dismiss the objection.
 
 #### 4.2.6 RULES OF INTEGRATION
 
@@ -253,13 +253,13 @@ When an objection is raised, the following additional rules apply during the sea
 
 The governance process is enacted in governance meetings.
 
-The secretary of a circle is responsible for scheduling governance meetings. In addition to any regular, recurring governance meetings the secretary schedules, the secretary is responsible for scheduling additional special governance meetings promptly upon request of any circle member. The facilitator is responsible for leading all governance meetings.
+The interpreter of a circle is responsible for scheduling governance meetings. In addition to any regular, recurring governance meetings the interpreter schedules, the interpreter is responsible for scheduling additional special governance meetings promptly upon request of any circle member. The facilitator is responsible for leading all governance meetings.
 
 #### 4.3.1 ATTENDANCE
 
-All circle members are entitled to fully participate in all governance meetings of a circle. A circle may only conduct its governance process in a meeting if the secretary has given all circle members reasonable advance notice that a governance meeting will be held, including its time and location.
+All circle members are entitled to fully participate in all governance meetings of a circle. A circle may only conduct its governance process in a meeting if the interpreter has given all circle members reasonable advance notice that a governance meeting will be held, including its time and location.
 
-In addition, the lead link and any rep links to the circle may each invite up to one additional person, solely to aid the link in processing a specific tension. The invited participant then becomes a circle member for the duration of that governance meeting. No one else is allowed to participate in a circle's governance meetings unless explicitly invited by a policy of the circle.
+In addition, the guide and any care takers to the circle may each invite up to one additional person, solely to aid the link in processing a specific tension. The invited participant then becomes a circle member for the duration of that governance meeting. No one else is allowed to participate in a circle's governance meetings unless explicitly invited by a policy of the circle.
 
 Anyone who fails to attend a governance meeting counts as having had the opportunity to consider all proposals made within the meeting, and raised no objections to their adoption.
 
@@ -295,13 +295,13 @@ The facilitator processes all agenda items which do not trigger elections as fol
 
 1. (a) Present proposal: First, the proposer may describe the tension and present a proposal to address the tension. If the proposer requestshelp crafting a proposal, the facilitator may allow discussion or another collaborative process to assist. However, the facilitator must focus this activity solely on crafting an initial proposal for the proposer's tension, and not on addressing other tensions or integrating others' concerns into the proposal.
 
-2. (b) Clarifying questions: Once the proposer makes a proposal, thether participants may ask clarifying questions to better understandthe proposal or the tension behind it. The proposer may answer each question, or may decline to do so. The facilitator must disallow any reactions or opinions expressed about the proposal, and prevent discussion of any kind. Participants may also ask the secretary to read the captured proposal or clarify any existing governance, whenever the process allows the participant to speak. The secretary then does as requested.
+2. (b) Clarifying questions: Once the proposer makes a proposal, thether participants may ask clarifying questions to better understandthe proposal or the tension behind it. The proposer may answer each question, or may decline to do so. The facilitator must disallow any reactions or opinions expressed about the proposal, and prevent discussion of any kind. Participants may also ask the interpreter to read the captured proposal or clarify any existing governance, whenever the process allows the participant to speak. The interpreter then does as requested.
 
 3. (c) Reaction round: Once there are no further clarifying questions, each participant except the proposer may share reactions to the proposal, one person at a time. The facilitator immediately stops and disallows any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the proposal.
 
-4. (d) Change & clarify: After the reaction round, the proposer may share comments in response to the reactions and make changes to the proposal. The primary intent of any changes must be to better address the proposer's tension, and not tensions raised by others. During this step, the facilitator immediately stops and disallows any comments by anyone other than the proposer or secretary, and any engagement by the secretary must focus solely on capturing the changes to the proposal.
+4. (d) Change & clarify: After the reaction round, the proposer may share comments in response to the reactions and make changes to the proposal. The primary intent of any changes must be to better address the proposer's tension, and not tensions raised by others. During this step, the facilitator immediately stops and disallows any comments by anyone other than the proposer or interpreter, and any engagement by the interpreter must focus solely on capturing the changes to the proposal.
 
-5. (e) Objection round: Next, each participant, one at a time, may raise potential objections to adopting the proposal. The facilitator must stop and disallow discussion or responses of any sort. The facilitator tests objections as described in Section 4.2.5, and must capture any valid objections that remain after testing. If there are no valid objections, the secretary records the proposal as adopted governance for the circle.
+5. (e) Objection round: Next, each participant, one at a time, may raise potential objections to adopting the proposal. The facilitator must stop and disallow discussion or responses of any sort. The facilitator tests objections as described in Section 4.2.5, and must capture any valid objections that remain after testing. If there are no valid objections, the interpreter records the proposal as adopted governance for the circle.
 
 6. (f) Integration: If there are valid objections, the facilitator then facilitates a discussion to adapt the proposal to resolve each objection, one at a time. The facilitator marks an objection as resolved once the objector confirms that the adapted proposal would not trigger the objection, and the proposer confirms that the adapted proposal would still address the proposer's tension. During the discussion, the facilitator must apply the rules of integration described in Section 4.2.6. Once all captured objections are addressed, the facilitator moves back to the objection round to check for new objections to the adapted proposal.
 
@@ -323,27 +323,27 @@ If an agenda item triggers an election, the facilitator holds the election as fo
 
 #### 4.3.6 OPERATIONAL DECISIONS IN GOVERNANCE MEETINGS
 
-Governance meetings are intended to support a circle's governance process. As long as it does not distract from this intended focus, any participant may nonetheless make operational decisions during the meeting that are outside the scope of the circle's governance process. However, the secretary may not capture any operational outputs or decisions in the formal governance protocol or records of the circle. Further, operational outputs and decisions made in a governance meeting carry no more or less weight or authority than those made outside of a governance meeting.
+Governance meetings are intended to support a circle's governance process. As long as it does not distract from this intended focus, any participant may nonetheless make operational decisions during the meeting that are outside the scope of the circle's governance process. However, the interpreter may not capture any operational outputs or decisions in the formal governance protocol or records of the circle. Further, operational outputs and decisions made in a governance meeting carry no more or less weight or authority than those made outside of a governance meeting.
 
 ### 4.4 INTERPRETING THE CONSTITUTION AND GOVERNANCE
 
-You may use your reasonable judgment to interpret this constitution and any governance within Nothing Interactive, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the secretary of any circle that is affected by the governance. However, in either case, the following additional terms apply:
+You may use your reasonable judgment to interpret this constitution and any governance within Nothing Interactive, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the interpreter of any circle that is affected by the governance. However, in either case, the following additional terms apply:
 
-#### 4.4.1 SECRETARY INTERPRETATION TRUMPS
+#### 4.4.1 INTERPRETER INTERPRETATION TRUMPS
 
-If your interpretation conflicts with an interpretation made by a secretary, the secretary's interpretation trumps your own and applies instead, and you must align with it until any underlying governance changes.
+If your interpretation conflicts with an interpretation made by a interpreter, the interpreter's interpretation trumps your own and applies instead, and you must align with it until any underlying governance changes.
 
 #### 4.4.2 SUPER-CIRCLE INTERPRETATION TRUMPS
 
-A super-circle's secretary may overrule an interpretation given by a secretary of any of its sub-circles. If two secretaries give conflicting interpretations and one is from the secretary of a circle that contains the other circle, then you must align with the interpretation given by the super-circle's secretary.
+A super-circle's interpreter may overrule an interpretation given by a interpreter of any of its sub-circles. If two secretaries give conflicting interpretations and one is from the interpreter of a circle that contains the other circle, then you must align with the interpretation given by the super-circle's interpreter.
 
 #### 4.4.3 INTERPRETATIONS BECOME STANDARDS
 
-After giving an interpretation, a secretary may choose to publish that interpretation and the logic behind it in the governance records of the circle. If published, the secretary of that circle and the secretaries of any of its sub-circles are responsible for attempting to align any future interpretation with the previously published logic and interpretations. If a secretary has good reason to contradict previously published logic, they may update the interpretation. Such updates must be published in the governance records. Subsequent interpretations must align with the updated interpretation.
+After giving an interpretation, a interpreter may choose to publish that interpretation and the logic behind it in the governance records of the circle. If published, the interpreter of that circle and the secretaries of any of its sub-circles are responsible for attempting to align any future interpretation with the previously published logic and interpretations. If a interpreter has good reason to contradict previously published logic, they may update the interpretation. Such updates must be published in the governance records. Subsequent interpretations must align with the updated interpretation.
 
 #### 4.4.4 STRIKING INVALID GOVERNANCE
 
-Any member of a circle may ask its secretary to rule on the validity of any governance of the circle or of any role or sub-circle contained by the circle. If the secretary concludes the governance conflicts with the rules of this constitution, the secretary must strike the offending governance from the acting governance record. After doing so, the secretary must promptly communicate what was struck and why to all roles and circles affected by the change.
+Any member of a circle may ask its interpreter to rule on the validity of any governance of the circle or of any role or sub-circle contained by the circle. If the interpreter concludes the governance conflicts with the rules of this constitution, the interpreter must strike the offending governance from the acting governance record. After doing so, the interpreter must promptly communicate what was struck and why to all roles and circles affected by the change.
 
 ### 4.5 PROCESS BREAKDOWN
 
@@ -355,7 +355,7 @@ The facilitator of a circle may declare a process breakdown if the circle member
 
 #### 4.5.2 BREAKDOWN FROM UNCONSTITUTIONAL BEHAVIOR
 
-A facilitator of a super-circle may declare a process breakdown in a sub-circle if they discover that the sub-circle shows a behaviour pattern or produces governance output that violates the constitution. If the facilitator of the super-circle happens to also be the facilitator of the sub-circle, the super-circle's secretary and rep link gain the authority to also declare a process breakdown in the sub-circle.
+A facilitator of a super-circle may declare a process breakdown in a sub-circle if they discover that the sub-circle shows a behaviour pattern or produces governance output that violates the constitution. If the facilitator of the super-circle happens to also be the facilitator of the sub-circle, the super-circle's interpreter and care taker gain the authority to also declare a process breakdown in the sub-circle.
 
 #### 4.5.3 PROCESS RESTORATION
 
@@ -363,7 +363,7 @@ Whenever an authorized party declares a process breakdown within a circle, the f
 
 1. (a) The facilitator of the circle's super-circle becomes responsible for restoring the governance process of the circle. The facilitator may choose to do this in whatever way they see fit.
 
-2. (b) The facilitator of the super-circle gains the authority to take over as facilitator or secretary of the circle, or to appoint someone else to do so; and
+2. (b) The facilitator of the super-circle gains the authority to take over as facilitator or interpreter of the circle, or to appoint someone else to do so; and
 
 3. (c) The facilitator of the circle gains the authority to judge the accuracy of any arguments presented to validate proposals or objections within the circle's governance process.
 
@@ -425,9 +425,9 @@ The ratifier or their successor may revoke this constitution entirely, using wha
 
 ## APPENDIX A: DEFINITION OF CORE ROLES
 
-### LEAD LINK
+### GUIDE
 
-- PURPOSE: The lead link holds the purpose of the overall circle.
+- PURPOSE: The guide holds the purpose of the overall circle.
 - DOMAINS: Role assignments within the circle
 - ACCOUNTABILITIES:
  - Structuring the governance of the circle so that it can enact its purpose and accountabilities 
@@ -436,11 +436,11 @@ The ratifier or their successor may revoke this constitution entirely, using wha
  - Establishing priorities and strategies for the circle
  - Removing constraints within the circle as a reaction to the super-circle enacting its purpose and accountabilities 
 
-The lead link also holds all un-delegated circle-level domains and accountabilities.
+The guide also holds all un-delegated circle-level domains and accountabilities.
 
-### REP LINK
+### CARE TAKER
 
-- PURPOSE: Within the super-circle, the rep link holds the purpose of the sub-circle; within the sub-circle, the rep link's purpose is: Channel out and resolve tensions that are relevant to process in the super-circle.
+- PURPOSE: Within the super-circle, the care taker holds the purpose of the sub-circle; within the sub-circle, the care taker's purpose is: Channel out and resolve tensions that are relevant to process in the super-circle.
 - ACCOUNTABILITIES:
  - Removing constraints within the super-circle that limit the sub-circle 
  - Seeking to understand tensions conveyed by sub-circle circle members, and deciding which are appropriate to process in the super-circle
@@ -453,7 +453,7 @@ The lead link also holds all un-delegated circle-level domains and accountabilit
  - Facilitating the circle's governance meetings 
  - Auditing the meetings and records of sub-circles as needed, and declaring a process breakdown upon discovering a pattern of behaviour that conflicts with the rules of the constitution 
 
-### SECRETARY
+### INTERPRETER
 
 - PURPOSE: Maintain and assert the circle's formal records and record-keeping process. 
 - DOMAINS: All constitutionally-required records of the circle
@@ -461,7 +461,7 @@ The lead link also holds all un-delegated circle-level domains and accountabilit
  - Scheduling the circle's required meetings, and notifying all circle members of these meetings 
  - Capturing and publishing the outputs of the circle's required meetings, and maintaining a compiled view of the circle's current governance, checklist items, and metrics 
  - Interpreting governance and the constitution upon request
-- ACCOUNTABILITY specific to the secretary of the GRC:
+- ACCOUNTABILITY specific to the interpreter of the GRC:
  - Organizing quarterly OKR celebration
 
 ### OKR AGENT
@@ -470,7 +470,7 @@ The lead link also holds all un-delegated circle-level domains and accountabilit
 - ACCOUNTABILITIES:
  - Defining relevant OKR for the circle, where necessary with input from other roles in the circle
  - Tracking, interpreting and communicating progress of OKR
- - Evaluating the circle’s progress in general and suggesting course corrections
+ - Evaluating the circle's progress in general and suggesting course corrections
 
 ## CONSTITUTION ADOPTION DECLARATION
 
