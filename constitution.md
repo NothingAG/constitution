@@ -134,7 +134,7 @@ Each circle includes **five elected roles** : A **guide**, a **facilitator** , a
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
-The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the guide of a circle, who may not be elected as its facilitator, care taker or OKR agent.
+The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the guide of a circle, who may not be elected as its facilitator, care taker or OKR agent. For the guide role, any crew member may be put up for election regardless of whether they currently are in the circle in question or not. If someone from outside the circle is proposed as the new guide, they need to be involved in processing this proposal. For all other elected roles, only circle members are eligible.
 
 #### 3.4.2 ELECTION TERMS & REVISITING
 
