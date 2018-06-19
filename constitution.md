@@ -130,11 +130,11 @@ When you fill a role, you may resign from the role at any time, unless you've ag
 
 ### 3.4 ELECTED ROLES
 
-Each circle includes **five elected roles** : A **guide**, a **facilitator** , a **interpreter**, a **care taker**, and an **OKR agent** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)).
+Each circle includes **four elected roles** : A **guide**, a **facilitator** , a **interpreter** and a **care taker** (see [Appendix A](/constitution#appendix-a-definition-of-core-roles)).
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
-The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the guide of a circle, who may not be elected as its facilitator, care taker or OKR agent. For the guide role, any crew member may be put up for election regardless of whether they currently are in the circle in question or not. If someone from outside the circle is proposed as the new guide, they need to be involved in processing this proposal. For all other elected roles, only circle members are eligible.
+The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the guide of a circle, who may not be elected as its facilitator or care taker. For the guide role, any crew member may be put up for election regardless of whether they currently are in the circle in question or not. If someone from outside the circle is proposed as the new guide, they need to be involved in processing this proposal. For all other elected roles, only circle members are eligible.
 
 #### 3.4.2 ELECTION TERMS & REVISITING
 
@@ -463,14 +463,6 @@ The guide also holds all un-delegated circle-level domains and accountabilities.
  - Interpreting governance and the constitution upon request
 - ACCOUNTABILITY specific to the interpreter of the GRC:
  - Organizing quarterly OKR celebration
-
-### OKR AGENT
-
-- PURPOSE: Knowing and fostering the strengths and weaknesses of the circle
-- ACCOUNTABILITIES:
- - Defining relevant OKR for the circle, where necessary with input from other roles in the circle
- - Tracking, interpreting and communicating progress of OKR
- - Evaluating the circle's progress in general and suggesting course corrections
 
 ## CONSTITUTION ADOPTION DECLARATION
 
