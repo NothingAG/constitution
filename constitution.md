@@ -130,7 +130,7 @@ When you fill a role, you may resign from the role at any time, unless you've ag
 
 ### 3.4 ELECTED ROLES
 
-Each circle includes **four elected roles** : A **guide**, a **facilitator** , a **interpreter** and a **care taker** (see [Nothing Interactive's Peerdom Map](https://nothing.peerdom.org)).
+Each circle includes **four elected roles** : A **guide**, a **facilitator**, a **interpreter** and a **care taker** (see [Nothing Interactive's Peerdom Map](https://nothing.peerdom.org)).
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
