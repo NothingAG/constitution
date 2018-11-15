@@ -1,18 +1,18 @@
-# Nothing Interactive Constitution
+# Nothing's constitution
 
 ## PREAMBEL
 
-This constitution defines the rules and processes of Nothing Interactive's authority structure. All crew members including the CEO (= ratifier) agree to adopt the constitution and play by its rules.
+This constitution defines the rules and processes of Nothing's authority structure. All crew members including the CEO (= ratifier) agree to adopt the constitution and play by its rules.
 
 ## ARTICLE I: Purpose
 
-Nothing Interactive's purpose is to **create products which matter**. To execute our purpose, we orient to the following core values:
+Nothing's purpose is to **create products which matter**. To execute our purpose, we orient to the following core values:
 
 - **Simple** : In all that we do, we focus on the essential in order to develop ideas which make everyday life simpler.
 - **Human** : We strive for a deep understanding of people so that we can enable them through technology to go beyond their current capabilities.
 - **Open** : We embrace an open-minded culture where transparency, collaborative spirit and learning from failures create a fertile ground for passion and excellence.
 
-You are free to take any action to fulfil Nothing Interactive's purpose, so long as your action does not break the rules of the constitution.
+You are free to take any action to fulfil Nothing's purpose, so long as your action does not break the rules of the constitution.
 
 ## ARTICLE II: Roles
 
@@ -20,7 +20,7 @@ You are free to take any action to fulfil Nothing Interactive's purpose, so long
 
 Crew members will typically perform work by acting in an explicitly defined role. Each role has a descriptive name as well as the following:
 
-1. (a) A purpose: This is the ultimate that the role strives to express within the larger purpose of Nothing Interactive (see Article I). As such, the purpose guides the actions of the role.
+1. (a) A purpose: This is the ultimate that the role strives to express within the larger purpose of Nothing (see Article I). As such, the purpose guides the actions of the role.
 
 2. (b) Domains: These are areas and/or resources that the role may exclusively control and regulate.
 
@@ -54,13 +54,13 @@ Before a policy becomes valid, it must be shared openly with all roles impacted 
 
 You are only allowed to act within your roles. You can make an exception by taking **individual action**, if
 
-1. (a) you are acting in the best interest of Nothing Interactive and
+1. (a) you are acting in the best interest of Nothing and
 
 2. (b) there is no time to request permission normally required from other roles and
 
-3. (c) you reasonably believe your action would resolve or prevent more tension for Nothing Interactive than it would likely create and
+3. (c) you reasonably believe your action would resolve or prevent more tension for Nothing than it would likely create and
 
-4. (d) your action would not cause spending of the Nothing Interactive's resources beyond what you're already authorized to spend.
+4. (d) your action would not cause spending of the Nothing's resources beyond what you're already authorized to spend.
 
 If you take individual action, you have to inform the roles affected by your action as soon as possible. You have to explain why you took individual action, and, if necessary, take additional actions to resolve any tensions that were created by your individual action.
 
@@ -88,7 +88,7 @@ Unlike policies for domains of single roles (see section 2.3), policies for chan
 
 ### 3.2 CIRCLE GUIDE
 
-Each circle has a **guide role** (see [Nothing Interactive's Peerdom Map](https://nothing.peerdom.org)) which holds the following additional responsibilities and authorities:
+Each circle has a **guide role** (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) which holds the following additional responsibilities and authorities:
 
 #### 3.2.1 INHERITS CIRCLE ROLE
 
@@ -130,7 +130,7 @@ When you fill a role, you may resign from the role at any time, unless you've ag
 
 ### 3.4 ELECTED ROLES
 
-Each circle includes **four elected roles** : A **guide**, a **facilitator**, a **interpreter** and a **care taker** (see [Nothing Interactive's Peerdom Map](https://nothing.peerdom.org)).
+Each circle includes **four elected roles** : A **guide**, a **facilitator**, a **interpreter** and a **care taker** (see [Nothing's Peerdom Map](https://nothing.peerdom.org)).
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
@@ -156,7 +156,7 @@ A substitute may temporarily fill an elected role when one is unfilled, or when 
 
 ### 3.6 SUB-CIRCLES
 
-A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle** , with the original circle as its **super-circle**. The guide of the super-circle may specify who fills the guide role of the sub-circle, following the rules in section 3.3. Furthermore, each sub-circle elects a care taker (see [Nothing Interactive's Peerdom Map](https://nothing.peerdom.org)), which cannot be the same person as the guide.
+A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle** , with the original circle as its **super-circle**. The guide of the super-circle may specify who fills the guide role of the sub-circle, following the rules in section 3.3. Furthermore, each sub-circle elects a care taker (see [Nothing's Peerdom Map](https://nothing.peerdom.org)), which cannot be the same person as the guide.
 
 ### 3.6.1 MODIFYING SUB-CIRCLES
 
@@ -164,9 +164,9 @@ A super-circle may modify the purpose, domain, or accountabilities of a sub-circ
 
 ### 3.7 GENERAL ROCKET CIRCLE
 
-The top-most circle of Nothing Interactive is the so-called **"general rocket circle" (GRC).** The general rocket circle encompasses all other circles and roles. It holds the purpose of Nothing Interactive (Article I). The GRC may update and adapt this purpose using the governance process (Article IV). Note however that it must follow the special rules for changing the constitution (section 6.2) to do so, because Nothing Interactive's purpose is part of the constitution. The GRC controls all domains of Nothing Interactive which have not been allocated to another role. It defines its own accountabilities through the governance process.
+The top-most circle of Nothing is the so-called **"general rocket circle" (GRC).** The general rocket circle encompasses all other circles and roles. It holds the purpose of Nothing (Article I). The GRC may update and adapt this purpose using the governance process (Article IV). Note however that it must follow the special rules for changing the constitution (section 6.2) to do so, because Nothing's purpose is part of the constitution. The GRC controls all domains of Nothing which have not been allocated to another role. It defines its own accountabilities through the governance process.
 
-The GRC has **no guide**. All decisions which would normally be taken by the guide (see [Nothing Interactive's Peerdom Map](https://nothing.peerdom.org)) go through the circle's governance process. All roles which are directly within the GRC are circle members of the GRC and take part in the governance process. The GRC may use a policy to exclude minor roles from the governance process.
+The GRC has **no guide**. All decisions which would normally be taken by the guide (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) go through the circle's governance process. All roles which are directly within the GRC are circle members of the GRC and take part in the governance process. The GRC may use a policy to exclude minor roles from the governance process.
 
 The GRC allocates domains to its sub-circles and its single roles. Unlike in regular circles, circle members of the GRC are only allowed to impact a domain of the GRC if it has been allocated to them, otherwise, decisions concerning GRC domains must go through the GRC's governance process.
 
@@ -327,7 +327,7 @@ Governance meetings are intended to support a circle's governance process. As lo
 
 ### 4.4 INTERPRETING THE CONSTITUTION AND GOVERNANCE
 
-You may use your reasonable judgment to interpret this constitution and any governance within Nothing Interactive, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the interpreter of any circle that is affected by the governance. However, in either case, the following additional terms apply:
+You may use your reasonable judgment to interpret this constitution and any governance within Nothing, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the interpreter of any circle that is affected by the governance. However, in either case, the following additional terms apply:
 
 #### 4.4.1 INTERPRETER INTERPRETATION TRUMPS
 
@@ -405,7 +405,7 @@ Any implicit expectations that you hold towards other circle members regarding t
 
 ### 6.1 RATIFIER CEDES AUTHORITY
 
-By adopting this constitution, the **ratifier** (= CEO) cedes their authority to governand run Nothing Interactive or direct its crew members, and may no longer do so except through authority granted to them under the constitution's rules and processes. As an exception to this rule, the ratifier may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization's bylaws.
+By adopting this constitution, the **ratifier** (= CEO) cedes their authority to governand run Nothing or direct its crew members, and may no longer do so except through authority granted to them under the constitution's rules and processes. As an exception to this rule, the ratifier may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization's bylaws.
 
 ### 6.2. CHANGES TO THE CONSTITUTION
 
@@ -425,4 +425,4 @@ The ratifier or their successor may revoke this constitution entirely, using wha
 
 ## CONSTITUTION ADOPTION DECLARATION
 
-The whole team adopted this constitution as the governance and operating system of Nothing Interactive on April 20, 2017. In having done so, we all agreed to cede all authority that we hold into the constitution's processes.
+The whole team adopted this constitution as the governance and operating system of Nothing on April 20, 2017. In having done so, we all agreed to cede all authority that we hold into the constitution's processes.
