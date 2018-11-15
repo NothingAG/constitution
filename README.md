@@ -1,4 +1,4 @@
-# Nothing Interactive Constitution
+# Nothing's Constitution
 
 You will find it in [constitution.md](./constitution.md).
 
@@ -16,7 +16,7 @@ Other files than `constitution.md` and the images included in it are not part of
 
 ## Attribution
 
-This constitution is based on the [Holacracy Constitution](https://www.holacracy.org/constitution) and has been adapted by Nothing Interactive.
+This constitution is based on the [Holacracy Constitution](https://www.holacracy.org/constitution) and has been adapted by Nothing.
 
 ## License
 
