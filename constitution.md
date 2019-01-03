@@ -106,7 +106,7 @@ A circle may not add accountabilities or other functions to its own guide role, 
 
 However, a circle may remove any accountabilities, domains, authorities, or functions of its guide role, either by placing them on another role within the circle, or by defining an alternate means of enacting them.
 
-![GeneralRocketCircle_Diagram_20180129](./images/GeneralRocketCircle_Diagram_20180129.png)
+![GeneralRocketCircle_Diagram_20190103](./images/GeneralRocketCircle_Diagram_20190103.png)
 
 ### 3.3 ROLE ASSIGNMENT
 
