@@ -409,7 +409,7 @@ By adopting this constitution, the **ratifier** (= CEO) cedes their authority to
 
 ### 6.2. CHANGES TO THE CONSTITUTION
 
-The **GRC** (see section 3.7) has the authority to change the constitution. Proposed changes to the constitution are tensions which can be presented as proposals in the circle's governance process. If a proposed change does not meet the criteria for valid proposals (section 3.2.2) but all members of the GRC agree that the proposed change should be processed, they have the authority to process it regardless of its validity.
+The **GRC** (see section 3.7) has the authority to change the constitution. Proposed changes to the constitution are tensions which can be presented as proposals through the GRC's governance process. If a proposed change does not meet the criteria for valid proposals (section 4.2.2) but the GRC decides that the proposed change should be processed, the GRC has the authority to process the proposal regardless of its validity.
 
 Governance output which changes the constitution does not automatically become valid. Before it becomes valid, it must be shared openly with all crew members. All crew members react to the change: they either accept it or raise an objection. If a role which is not part of the GRC raises an objection, it is invited to join the GRC's next governance meeting in order to process the objection as part of the GRC. As soon as a proposed change raises no new objections, the GRC has the authority to make the constitution change valid.
 
