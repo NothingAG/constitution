@@ -8,9 +8,9 @@ This constitution defines the rules and processes of Nothing's authority structu
 
 Nothing's purpose is to **create products which matter**. To execute our purpose, we orient to the following core values:
 
-- **Simple** : In all that we do, we focus on the essential in order to develop ideas which make everyday life simpler.
-- **Human** : We strive for a deep understanding of people so that we can enable them through technology to go beyond their current capabilities.
-- **Open** : We embrace an open-minded culture where transparency, collaborative spirit and learning from failures create a fertile ground for passion and excellence.
+- **Simple**: In all that we do, we focus on the essential in order to develop ideas which make everyday life simpler.
+- **Human**: We strive for a deep understanding of people so that we can enable them through technology to go beyond their current capabilities.
+- **Open**: We embrace an open-minded culture where transparency, collaborative spirit and learning from failures create a fertile ground for passion and excellence.
 
 You are free to take any action to fulfil Nothing's purpose, so long as your action does not break the rules of the constitution.
 
@@ -20,7 +20,7 @@ You are free to take any action to fulfil Nothing's purpose, so long as your act
 
 Crew members will typically perform work by acting in an explicitly defined role. Each role has a descriptive name as well as the following:
 
-1. (a) A purpose: This is the ultimate that the role strives to express within the larger purpose of Nothing (see Article I). As such, the purpose guides the actions of the role.
+1. (a) A purpose: This is the ultimate goal that the role strives to express within the larger purpose of Nothing (see Article I). As such, the purpose guides the actions of the role.
 
 2. (b) Domains: These are areas and/or resources that the role may exclusively control and regulate.
 
