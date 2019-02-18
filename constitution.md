@@ -231,7 +231,7 @@ Some tensions do not count as objections, and may be ignored during the processi
 
 4. (d) The objection addresses a tension that limits the role of the objector or a role that the objector has previously received the permission to represent.
 
-Regardless of the above criteria, an objection is always valid if it expresses that processing or adopting the proposal violates the constitution or is outside the circle's authority.
+Regardless of the above criteria, an objection is always valid if it expresses that processing or adopting the proposal violates the constitution or is outside the circle's authority. Objections to changes to the constitution (see 6.2) do not have to fulfil criteria (a) and (d) because they may come from a crew member rather than a role.
 
 #### 4.2.5 TESTING OBJECTIONS
 
@@ -411,7 +411,14 @@ By adopting this constitution, the **ratifier** (= CEO) cedes their authority to
 
 The **GRC** (see section 3.7) has the authority to change the constitution. Proposed changes to the constitution are tensions which can be presented as proposals in the circle's governance process. If a proposed change does not meet the criteria for valid proposals (section 3.2.2) but all members of the GRC agree that the proposed change should be processed, they have the authority to process it regardless of its validity.
 
-Governance output which changes the constitution does not automatically become valid. Before it becomes valid, it must be shared openly with all crew members. All crew members react to the change: they either accept it or raise an objection. If a role which is not part of the GRC raises an objection, it is invited to join the GRC's next governance meeting in order to process the objection as part of the GRC. As soon as a proposed change raises no new objections, the GRC has the authority to make the constitution change valid.
+Governance output which changes the constitution does not automatically become valid. As soon as a constitutional change is accepted by the GRC, the interpreter of the GRC communicates the respective change to all crew members. Within the next 7 days, crew members can respond to the change. If no objections are raised within this time frame, the change to the constitution becomes valid. If a crew member has an objection to a constitutional change, the objection is processed as follows:
+
+1. (a) The objector contacts the facilitator of the GRC as well as the original proposer of the change. The objector, the proposer, and the facilitator then integrate the objection.
+2. (b) The proposer brings the adapted proposal back to the GRC (either asynchronously or through a regular governance meeting).
+3. (c) Once the adapted proposal is accepted by the GRC, the interpreter communicates the adapted proposal to all crew members, who can respond to it following the process outlined in this section (6.2).
+4. (d) As soon as a proposed change to the constitution raises no new objections, it becomes valid.
+
+For proposals that have already been exposed to all crew members in some form, the facilitator of the GRC may decide to lower the response time.
 
 ### 6.4 LEGACY POLICIES AND SYSTEMS
 
