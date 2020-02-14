@@ -154,6 +154,14 @@ A substitute may temporarily fill an elected role when one is unfilled, or when 
 4. (d) the guide of the circle; or
 5. (e) the first circle member of the circle to declare he or she is acting as the substitute.
 
+### 3.5 EXTERNAL ROLES
+
+External roles are roles held by people who are not directly working at Nothing (for instance freelancers). External roles are structured exactly like regular roles (see 2.1). In addition to that, they are linked to a regular circle within Nothing; this circle is listed in the external role’s notes section. External roles do not participate in regular circle meetings.
+
+#### 3.5.1 CREATING, CHANGING OR REMOVING AN EXTERNAL ROLE
+
+Like regular roles, external roles are created, changed, or removed through a circle’s governance process (see article IV). The interpreter of the circle that is linked in the external role’s notes is responsible for keeping the external role up to date.
+
 ### 3.6 SUB-CIRCLES
 
 A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle** , with the original circle as its **super-circle**. The guide of the super-circle may specify who fills the guide role of the sub-circle, following the rules in section 3.3. Furthermore, each sub-circle elects a care taker (see [Nothing's Peerdom Map](https://nothing.peerdom.org)), which cannot be the same person as the guide.
