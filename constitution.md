@@ -8,9 +8,16 @@ This constitution defines the rules and processes of Nothing's authority structu
 
 Nothing's purpose is to **create products which matter**. To execute our purpose, we orient to the following core values:
 
-- **Simple**: In all that we do, we focus on the essential in order to develop ideas which make everyday life simpler.
-- **Human**: We strive for a deep understanding of people so that we can enable them through technology to go beyond their current capabilities.
-- **Open**: We embrace an open-minded culture where transparency, collaborative spirit and learning from failures create a fertile ground for passion and excellence.
+Simple
+- **No nonsense**: We cut the bullshit, get to the point and work only on what makes a difference.
+
+Human
+- **Compassion**: We put people first and respect the needs of every human being – peers, users, and anyone else.
+- **Trust**: We are open with others, distribute power and talk about tensions to build trusting relationships.
+
+Open
+- **Transparency**: We expose and explain our (sometimes unfinished) work and processes, internally and externally.
+- **Learning and growth**: We test our work, improve it based on feedback and learn from failure.
 
 You are free to take any action to fulfil Nothing's purpose, so long as your action does not break the rules of the constitution.
 
