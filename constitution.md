@@ -71,7 +71,7 @@ You are only allowed to act within your roles. You can make an exception by taki
 
 If you take individual action, you have to inform the roles affected by your action as soon as possible. You have to explain why you took individual action, and, if necessary, take additional actions to resolve any tensions that were created by your individual action.
 
-After taking individual action, informing those affected always becomes your top-most priority. You may reduce that priority if the guide of the circle that contains all impacted roles suggests you do so.
+After taking individual action, informing those affected always becomes your top-most priority. You may reduce that priority if the representative of the circle that contains all impacted roles suggests you do so.
 
 If you keep taking the same individual action, you're likely dealing with a tension that must be addressed with the governance process. You are responsible for taking the necessary steps to make that happen.
 
@@ -93,59 +93,41 @@ As a circle member, you may use and impact any domain that is controlled by the 
 
 Unlike policies for domains of single roles (see section 2.3), policies for changing circle domains may only be defined using the governance process. A circle may use a policy to delegate a domain to a single circle member. The circle may revoke or change such policies at any time using the governance process.
 
-### 3.2 CIRCLE GUIDE
+### 3.2 CIRCLE REPRESENTATIVE
 
-Each circle has a **guide role** (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) which holds the following additional responsibilities and authorities:
-
-#### 3.2.1 INHERITS CIRCLE ROLE
-
-The guide of a circle holds the overall purpose, accountabilities, and domains of the circle, just as if the circle were only a single role and the guide filled that role. The guide may lose accountabilities and domains of the circle when they are delegated to another role in the circle.
-
-The guide may not define policies that limit the circle's roles, except via the governance process of the circle.
-
-#### 3.2.2 DEFINES PRIORITIES & STRATEGIES
-
-A circle's guide may define **relative priorities** for the circle. In addition, the guide may define a more general strategy or multiple strategies for the circle. Such a strategy is a **heuristic** (=rule-of-thumb) which helps the circle's roles determine priorities on their own.
-
-#### 3.2.3 CHANGING THE GUIDE ROLE
-
-A circle may not add accountabilities or other functions to its own guide role, or modify the role's purpose, or remove the role entirely. Such changes can only happen in the circle's super-circle.
-
-However, a circle may remove any accountabilities, domains, authorities, or functions of its guide role, either by placing them on another role within the circle, or by defining an alternate means of enacting them.
-
-![GeneralRocketCircle_Diagram_20190103](./images/GeneralRocketCircle_Diagram_20190103.png)
+Each circle has a **representative role** (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) which holds the purpose, accountabilities, and domains of the overall circle and facilitates smooth collaboration with other circles. The representative is an elected role (see section 3.4).
 
 ### 3.3 ROLE ASSIGNMENT
 
-The guide of a circle may assign people to fill defined roles in the circle, unless that authority has been limited or delegated. The guide uses people's individual mission statements to decide which person should fill a role.
+The representative of the circle is responsible for finding suitable people to fill a role. People can, of course, also pull roles and talk to the representative about taking on or leaving roles.
 
 #### 3.3.1 UNFILLED ROLES
 
-Whenever a defined role in a circle is unfilled, the circle's guide is considered to be filling the role.
+Whenever a defined role in a circle is unfilled, the circle's representative is considered to be filling the role.
 
 #### 3.3.2 ASSIGNING ROLES TO MULTIPLE PEOPLE
 
-A guide may assign multiple people to the same defined role, as long as that will not decrease the clarity of who should enact the accountabilities and authorities of the role in common situations.
+It's possible to assign multiple people to the same defined role, as long as that will not decrease the clarity of who should enact the accountabilities and authorities of the role in common situations.
 
-As one way of maintaining that clarity, a guide may specify a **focus** along with each assignment, which is an area or context for that person to focus on while executing in the role.
+As one way of maintaining that clarity, a representative may specify a **focus** along with each assignment, which is an area or context for that person to focus on while executing in the role.
 
 When a role assignment includes a focus, the purpose, accountabilities, and domains defined for the role apply just within the specified focus for that particular person.
 
 #### 3.3.3 RESIGNATION FROM ROLES
 
-When you fill a role, you may resign from the role at any time, unless you've agreed otherwise, by giving notice to whoever controls assignments to that role - typically, the circle's guide.
+When you fill a role, you may resign from the role at any time, unless you've agreed otherwise, by giving notice to whoever controls assignments to that role - typically, the circle's representative.
 
 ### 3.4 ELECTED ROLES
 
-Each circle includes **four elected roles** : A **guide**, a **facilitator**, a **interpreter** and a **care taker** (see [Nothing's Peerdom Map](https://nothing.peerdom.org)).
+Each circle includes **three elected roles** : A **representative**, a **facilitator**, and an **interpreter** (see [Nothing's Peerdom Map](https://nothing.peerdom.org)).
 
 #### 3.4.1 ELECTIONS & ELIGIBILITY
 
-The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the guide of a circle, who may not be elected as its facilitator or care taker. For the guide role, any crew member may be put up for election regardless of whether they currently are in the circle in question or not. If someone from outside the circle is proposed as the new guide, they need to be involved in processing this proposal. For all other elected roles, only circle members are eligible.
+The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the representative of a circle, who may not be elected as its facilitator. For the representative role, any crew member may be put up for election regardless of whether they currently are in the circle in question or not. If someone from outside the circle is proposed as the new representative, they need to be involved in processing this proposal. For all other elected roles, only circle members are eligible.
 
 #### 3.4.2 ELECTION TERMS & REVISITING
 
-During the election process, the facilitator will specify a term for each election. For guides, the election term should be 6 months. After a term expires, the interpreter is responsible for promptly triggering a new election for that elected role. However, even before a term has expired, any circle member may trigger a new election using the process defined in Article IV.
+During the election process, the facilitator will specify a term for each election. For representatives, the election term should be 6 months. After a term expires, the interpreter is responsible for promptly triggering a new election for that elected role. However, even before a term has expired, any circle member may trigger a new election using the process defined in Article IV.
 
 #### 3.4.3 CHANGING ELECTED ROLES
 
@@ -158,7 +140,7 @@ A substitute may temporarily fill an elected role when one is unfilled, or when 
 1. (a) someone explicitly specified by the person to be replaced; or
 2. (b) the acting facilitator of the circle; or
 3. (c) the acting interpreter of the circle; or
-4. (d) the guide of the circle; or
+4. (d) the representative of the circle; or
 5. (e) the first circle member of the circle to declare he or she is acting as the substitute.
 
 ### 3.5 EXTERNAL ROLES
@@ -171,7 +153,7 @@ Like regular roles, external roles are created, changed, or removed through a ci
 
 ### 3.6 SUB-CIRCLES
 
-A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle** , with the original circle as its **super-circle**. The guide of the super-circle may specify who fills the guide role of the sub-circle, following the rules in section 3.3. Furthermore, each sub-circle elects a care taker (see [Nothing's Peerdom Map](https://nothing.peerdom.org)), which cannot be the same person as the guide.
+A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle**, with the original circle as its **super-circle**. The representative of the super-circle may specify who fills the representative role of the sub-circle, following the rules in section 3.3.
 
 ### 3.6.1 MODIFYING SUB-CIRCLES
 
@@ -181,7 +163,7 @@ A super-circle may modify the purpose, domain, or accountabilities of a sub-circ
 
 The top-most circle of Nothing is the so-called **"general rocket circle" (GRC).** The general rocket circle encompasses all other circles and roles. It holds the purpose of Nothing (Article I). The GRC may update and adapt this purpose using the governance process (Article IV). Note however that it must follow the special rules for changing the constitution (section 6.2) to do so, because Nothing's purpose is part of the constitution. The GRC controls all domains of Nothing which have not been allocated to another role. It defines its own accountabilities through the governance process.
 
-The GRC has **no guide**. All decisions which would normally be taken by the guide (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) go through the circle's governance process. All roles which are directly within the GRC are circle members of the GRC and take part in the governance process. The GRC may use a policy to exclude minor roles from the governance process.
+As the top-most circle, the GRC has **no representative**. All decisions which would normally be taken by the representative (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) go through the circle's governance process. All roles which are directly within the GRC are circle members of the GRC and take part in the governance process. The GRC may use a policy to exclude minor roles from the governance process.
 
 The GRC allocates domains to its sub-circles and its single roles. Unlike in regular circles, circle members of the GRC are only allowed to impact a domain of the GRC if it has been allocated to them, otherwise, decisions concerning GRC domains must go through the GRC's governance process.
 
@@ -274,7 +256,7 @@ The interpreter of a circle is responsible for scheduling governance meetings. I
 
 All circle members are entitled to fully participate in all governance meetings of a circle. A circle may only conduct its governance process in a meeting if the interpreter has given all circle members reasonable advance notice that a governance meeting will be held, including its time and location.
 
-In addition, the guide and any care takers to the circle may each invite up to one additional person, solely to aid the link in processing a specific tension. The invited participant then becomes a circle member for the duration of that governance meeting. No one else is allowed to participate in a circle's governance meetings unless explicitly invited by a policy of the circle.
+In addition, a circle member may invite one additional person, if that person is needed to process a specific tension. The invited participant then becomes a circle member for the duration of that governance meeting. No one else is allowed to participate in a circle's governance meetings unless explicitly invited by a policy of the circle.
 
 Anyone who fails to attend a governance meeting counts as having had the opportunity to consider all proposals made within the meeting, and raised no objections to their adoption.
 
@@ -370,7 +352,7 @@ The facilitator of a circle may declare a process breakdown if the circle member
 
 #### 4.5.2 BREAKDOWN FROM UNCONSTITUTIONAL BEHAVIOR
 
-A facilitator of a super-circle may declare a process breakdown in a sub-circle if they discover that the sub-circle shows a behaviour pattern or produces governance output that violates the constitution. If the facilitator of the super-circle happens to also be the facilitator of the sub-circle, the super-circle's interpreter and care taker gain the authority to also declare a process breakdown in the sub-circle.
+A facilitator of a super-circle may declare a process breakdown in a sub-circle if they discover that the sub-circle shows a behaviour pattern or produces governance output that violates the constitution. If the facilitator of the super-circle happens to also be the facilitator of the sub-circle, the super-circle's interpreter gains the authority to also declare a process breakdown in the sub-circle.
 
 #### 4.5.3 PROCESS RESTORATION
 
