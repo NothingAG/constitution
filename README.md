@@ -7,10 +7,10 @@ You will find it in [constitution.md](./constitution.md).
 Rules to change the constitution are defined in [section 6.2](./constitution.md#62-changes-to-the-constitution).
 
 In short:
-- The *general rocket circle (GRC)* has the authority to change the constitution.
-- However, a change accepted by the *GRC* does not automatically become valid. It must be shared with all crew members, which should all accept or raise an objection. The change is valid when there is no objections.
+- The *bridge* has the authority to change the constitution.
+- However, a change accepted by the *bridge* does not automatically become valid. It must be shared with all crew members, which should all accept or raise an objection. The change is valid when there is no objections.
 
-The *interpreter* of the *GRC* is responsible for applying valid constitution changes.
+The *interpreter* of the *bridge* is responsible for applying valid constitution changes.
 
 Other files than `constitution.md` and the images included in it are not part of the constitution and may be changed without going through the process described in [section 6.2](./constitution.md#62-changes-to-the-constitution).
 

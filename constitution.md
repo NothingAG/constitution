@@ -159,13 +159,13 @@ A circle may expand any of its defined roles into full circles. The role then be
 
 A super-circle may modify the purpose, domain, or accountabilities of a sub-circle, or remove the sub-circle altogether. A super-circle may also move its own defined roles or policies into a sub-circle, or move any from within the sub-circle into itself. Any of these modifications may only be done via the governance process of the super-circle. Beyond these allowed changes, a super-circle may not modify any defined roles or policies held within a sub-circle.
 
-### 3.7 GENERAL ROCKET CIRCLE
+### 3.7 BRIDGE
 
-The top-most circle of Nothing is the so-called **"general rocket circle" (GRC).** The general rocket circle encompasses all other circles and roles. It holds the purpose of Nothing (Article I). The GRC may update and adapt this purpose using the governance process (Article IV). Note however that it must follow the special rules for changing the constitution (section 6.2) to do so, because Nothing's purpose is part of the constitution. The GRC controls all domains of Nothing which have not been allocated to another role. It defines its own accountabilities through the governance process.
+The top-most circle of Nothing is the so-called **"bridge"**. The bridge encompasses all other circles and roles. It holds the purpose of Nothing (Article I). The bridge may update and adapt this purpose using the governance process (Article IV). Note however that it must follow the special rules for changing the constitution (section 6.2) to do so, because Nothing's purpose is part of the constitution. The bridge controls all domains of Nothing which have not been allocated to another role. It defines its own accountabilities through the governance process.
 
-As the top-most circle, the GRC has **no representative**. All decisions which would normally be taken by the representative (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) go through the circle's governance process. All roles which are directly within the GRC are circle members of the GRC and take part in the governance process. The GRC may use a policy to exclude minor roles from the governance process.
+The bridge has **no representative**. All decisions which would normally be taken by the representative (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) go through the circle's governance process. The bridge may use a policy to exclude minor roles from the governance process.
 
-The GRC allocates domains to its sub-circles and its single roles. Unlike in regular circles, circle members of the GRC are only allowed to impact a domain of the GRC if it has been allocated to them, otherwise, decisions concerning GRC domains must go through the GRC's governance process.
+The bridge allocates domains to its sub-circles and its single roles. Unlike in regular circles, circle members of the bridge are only allowed to impact a domain of the bridge if it has been allocated to them, otherwise, decisions concerning bridge domains must go through the bridge's governance process.
 
 ## ARTICLE IV: GOVERNANCE PROCESS
 
@@ -406,16 +406,16 @@ By adopting this constitution, the **ratifier** (= CEO) cedes their authority to
 
 ### 6.2. CHANGES TO THE CONSTITUTION
 
-The **GRC** (see section 3.7) has the authority to change the constitution. Proposed changes to the constitution are tensions which can be presented as proposals through the GRC's governance process. If a proposed change does not meet the criteria for valid proposals (section 4.2.2) but the GRC decides that the proposed change should be processed, the GRC has the authority to process the proposal regardless of its validity.
+The **bridge** (see section 3.7) has the authority to change the constitution. Proposed changes to the constitution are tensions which can be presented as proposals through the bridge's governance process. If a proposed change does not meet the criteria for valid proposals (section 4.2.2) but the bridge decides that the proposed change should be processed, the bridge has the authority to process the proposal regardless of its validity.
 
-Governance output which changes the constitution does not automatically become valid. As soon as a constitutional change is accepted by the GRC, the interpreter of the GRC communicates the respective change to all crew members. Within the next 7 days, crew members can respond to the change. If no objections are raised within this time frame, the change to the constitution becomes valid. If a crew member has an objection to a constitutional change, the objection is processed as follows:
+Governance output which changes the constitution does not automatically become valid. As soon as a constitutional change is accepted by the bridge, the interpreter of the bridge communicates the respective change to all crew members. Within the next 7 days, crew members can respond to the change. If no objections are raised within this time frame, the change to the constitution becomes valid. If a crew member has an objection to a constitutional change, the objection is processed as follows:
 
-1. (a) The objector contacts the facilitator of the GRC as well as the original proposer of the change. The objector, the proposer, and the facilitator then integrate the objection.
-2. (b) The proposer brings the adapted proposal back to the GRC (either asynchronously or through a regular governance meeting).
-3. (c) Once the adapted proposal is accepted by the GRC, the interpreter communicates the adapted proposal to all crew members, who can respond to it following the process outlined in this section (6.2).
+1. (a) The objector contacts the facilitator of the bridge as well as the original proposer of the change. The objector, the proposer, and the facilitator then integrate the objection.
+2. (b) The proposer brings the adapted proposal back to the bridge (either asynchronously or through a regular governance meeting).
+3. (c) Once the adapted proposal is accepted by the bridge, the interpreter communicates the adapted proposal to all crew members, who can respond to it following the process outlined in this section (6.2).
 4. (d) As soon as a proposed change to the constitution raises no new objections, it becomes valid.
 
-For proposals that have already been exposed to all crew members in some form, the facilitator of the GRC may decide to lower the response time.
+For proposals that have already been exposed to all crew members in some form, the facilitator of the bridge may decide to lower the response time.
 
 ### 6.4 LEGACY POLICIES AND SYSTEMS
 
