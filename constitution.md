@@ -129,6 +129,8 @@ Each circle includes **three elected roles** : A **representative**, a **facilit
 
 The facilitator of each circle will facilitate **regular elections** to elect a circle member of the circle into each of its elected roles, using the process and rules defined in Article IV. All circle members are eligible for election and each may hold multiple elected roles, except for the representative of a circle, who may not be elected as its facilitator. For the representative role, any crew member may be put up for election regardless of whether they currently are in the circle in question or not. If someone from outside the circle is proposed as the new representative, they need to be involved in processing this proposal. For all other elected roles, only circle members are eligible.
 
+If a super-circle has a representative, this super-circle representative is also included in the representative elections of its sub-circles.
+
 #### 3.4.2 ELECTION TERMS & REVISITING
 
 During the election process, the facilitator will specify a term for each election. For representatives, the election term should be 6 months. After a term expires, the interpreter is responsible for promptly triggering a new election for that elected role. However, even before a term has expired, any circle member may trigger a new election using the process defined in Article IV.
@@ -157,9 +159,7 @@ Like regular roles, external roles are created, changed, or removed through a ci
 
 ### 3.6 SUB-CIRCLES
 
-A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle**, with the original circle as its **super-circle**. The representative of the super-circle may specify who fills the representative role of the sub-circle, following the rules in section 3.3.
-
-### 3.6.1 MODIFYING SUB-CIRCLES
+A circle may expand any of its defined roles into full circles. The role then becomes a **sub-circle**, with the original circle as its **super-circle**.
 
 Any modifications of sub-circles may only be done via the governance process of the sub-circle itself, except for moving super-circle roles or policies into the sub-circle, or moving sub-circle roles into the super-circle as well as the removal of a sub-circle. These cases are handled by the the super-circle governance process.
 
