@@ -161,7 +161,7 @@ A circle may expand any of its defined roles into full circles. The role then be
 
 ### 3.6.1 MODIFYING SUB-CIRCLES
 
-A super-circle may modify the purpose, domain, or accountabilities of a sub-circle, or remove the sub-circle altogether. A super-circle may also move its own defined roles or policies into a sub-circle, or move any from within the sub-circle into itself. Any of these modifications may only be done via the governance process of the super-circle. Beyond these allowed changes, a super-circle may not modify any defined roles or policies held within a sub-circle.
+Any modifications of sub-circles may only be done via the governance process of the sub-circle itself, except for moving super-circle roles or policies into the sub-circle, or moving sub-circle roles into the super-circle as well as the removal of a sub-circle. These cases are handled by the the super-circle governance process.
 
 ### 3.7 BRIDGE
 
