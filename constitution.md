@@ -93,6 +93,10 @@ As a circle member, you may use and impact any domain that is controlled by the 
 
 Unlike policies for domains of single roles (see section 2.3), policies for changing circle domains may only be defined using the governance process. A circle may use a policy to delegate a domain to a single circle member. The circle may revoke or change such policies at any time using the governance process.
 
+#### 3.1.4 MOVING ROLES
+
+Moving a role into a super- or sub-circle is handled by the governance process of the super-circle (see section 3.6.1), while moving a role to any other circle can be decided by the role holder(s) and the representatives of the affected circles.
+
 ### 3.2 CIRCLE REPRESENTATIVE
 
 Each circle has a **representative role** (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) which holds the purpose, accountabilities, and domains of the overall circle and facilitates smooth collaboration with other circles. The representative is an elected role (see section 3.4).
