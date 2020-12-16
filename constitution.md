@@ -49,6 +49,12 @@ If you fill a role, you agree to do the following:
 
 - Performing accountabilities: You perform any accountabilities assigned to the role.
 
+When filling a role in a circle, you have the following duties to your fellow circle members when they're acting on behalf of other roles in the circle:
+
+* *Duty of transparency*: You must provide transparency to your fellow circle members about your role's **current and future priorities** by updating the processes currently in place to do so.
+* *Duty of processing*: You must process requests from circle member (e.g. asking to impact your domain, requesting information about your accountabilities, ...) within a reasonable time frame, either by taking action or by communicating to the requester why you did not take action upon the request.
+* *Implicit expectations hold no weight*: Any implicit expectations that you hold towards other circle members regarding the processes defined in this constitution carry no weight.
+
 ### 2.3 AUTHORITY OVER DOMAINS
 
 Once you fill a role, you have the authority to control and regulate all domains of that role: You can decide to what extent other roles can impact your domains. You can give access on a case-by-case basis or define **policies**.
@@ -133,7 +139,7 @@ If a super-circle has a representative, this super-circle representative is also
 
 #### 3.4.2 ELECTION TERMS & REVISITING
 
-During the election process, the facilitator will specify a term for each election. For representatives, the election term should be 6 months. After a term expires, the interpreter is responsible for promptly triggering a new election for that elected role. However, even before a term has expired, any circle member may trigger a new election using the process defined in Article IV.
+During the election process, the facilitator will specify a term for each election. For representatives, the election term should be 6 months. After a term expires, the facilitator is responsible for promptly triggering a new election for that elected role. However, even before a term has expired, any circle member may trigger a new election using the process defined in Article IV.
 
 #### 3.4.3 CHANGING ELECTED ROLES
 
@@ -165,7 +171,7 @@ Any modifications of sub-circles may only be done via the governance process of 
 
 ### 3.7 BRIDGE
 
-The top-most circle of Nothing is the so-called **"bridge"**. The bridge encompasses all other circles and roles. It holds the purpose of Nothing (Article I). The bridge may update and adapt this purpose using the governance process (Article IV). Note however that it must follow the special rules for changing the constitution (section 6.2) to do so, because Nothing's purpose is part of the constitution. The bridge controls all domains of Nothing which have not been allocated to another role. It defines its own accountabilities through the governance process.
+The top-most circle of Nothing is the so-called **"bridge"**. The bridge encompasses all other circles and roles. It holds the purpose of Nothing (Article I). The bridge may update and adapt this purpose using the governance process (Article IV). Note however that it must follow the special rules for changing the constitution (section 5.2) to do so, because Nothing's purpose is part of the constitution. The bridge controls all domains of Nothing which have not been allocated to another role. It defines its own accountabilities through the governance process.
 
 The bridge has **no representative**. All decisions which would normally be taken by the representative (see [Nothing's Peerdom Map](https://nothing.peerdom.org)) go through the circle's governance process. The bridge may use a policy to exclude minor roles from the governance process.
 
@@ -232,7 +238,7 @@ Some tensions do not count as objections, and may be ignored during the processi
 
 4. (d) The objection addresses a tension that limits the role of the objector or a role that the objector has previously received the permission to represent.
 
-Regardless of the above criteria, an objection is always valid if it expresses that processing or adopting the proposal violates the constitution or is outside the circle's authority. Objections to changes to the constitution (see 6.2) do not have to fulfil criteria (a) and (d) because they may come from a crew member rather than a role.
+Regardless of the above criteria, an objection is always valid if it expresses that processing or adopting the proposal violates the constitution or is outside the circle's authority. Objections to changes to the constitution (see 5.2) do not have to fulfil criteria (a) and (d) because they may come from a crew member rather than a role.
 
 #### 4.2.5 TESTING OBJECTIONS
 
@@ -254,11 +260,11 @@ When an objection is raised, the following additional rules apply during the sea
 
 The governance process is enacted in governance meetings.
 
-The interpreter of a circle is responsible for scheduling governance meetings. In addition to any regular, recurring governance meetings the interpreter schedules, the interpreter is responsible for scheduling additional special governance meetings promptly upon request of any circle member. The facilitator is responsible for leading all governance meetings.
+The facilitator of a circle is responsible for scheduling governance meetings. In addition to any regular, recurring governance meetings the interpreter schedules, the interpreter is responsible for scheduling additional special governance meetings promptly upon request of any circle member. The facilitator is responsible for leading all governance meetings.
 
 #### 4.3.1 ATTENDANCE
 
-All circle members are entitled to fully participate in all governance meetings of a circle. A circle may only conduct its governance process in a meeting if the interpreter has given all circle members reasonable advance notice that a governance meeting will be held, including its time and location.
+All circle members are entitled to fully participate in all governance meetings of a circle. A circle may only conduct its governance process in a meeting if the facilitator has given all circle members reasonable advance notice that a governance meeting will be held, including its time and location.
 
 In addition, a circle member may invite one additional person, if that person is needed to process a specific tension. The invited participant then becomes a circle member for the duration of that governance meeting. No one else is allowed to participate in a circle's governance meetings unless explicitly invited by a policy of the circle.
 
@@ -336,11 +342,11 @@ If your interpretation conflicts with an interpretation made by a interpreter, t
 
 #### 4.4.2 SUPER-CIRCLE INTERPRETATION TRUMPS
 
-A super-circle's interpreter may overrule an interpretation given by a interpreter of any of its sub-circles. If two secretaries give conflicting interpretations and one is from the interpreter of a circle that contains the other circle, then you must align with the interpretation given by the super-circle's interpreter.
+A super-circle's interpreter may overrule an interpretation given by a interpreter of any of its sub-circles. If two interpreters give conflicting interpretations and one is from the interpreter of a circle that contains the other circle, then you must align with the interpretation given by the super-circle's interpreter.
 
 #### 4.4.3 INTERPRETATIONS BECOME STANDARDS
 
-After giving an interpretation, a interpreter may choose to publish that interpretation and the logic behind it in the governance records of the circle. If published, the interpreter of that circle and the secretaries of any of its sub-circles are responsible for attempting to align any future interpretation with the previously published logic and interpretations. If a interpreter has good reason to contradict previously published logic, they may update the interpretation. Such updates must be published in the governance records. Subsequent interpretations must align with the updated interpretation.
+After giving an interpretation, a interpreter may choose to publish that interpretation and the logic behind it in the governance records of the circle. If published, the interpreter of that circle and the interpreters of any of its sub-circles are responsible for attempting to align any future interpretation with the previously published logic and interpretations. If a interpreter has good reason to contradict previously published logic, they may update the interpretation. Such updates must be published in the governance records. Subsequent interpretations must align with the updated interpretation.
 
 #### 4.4.4 STRIKING INVALID GOVERNANCE
 
@@ -374,41 +380,13 @@ These authorities are temporary and cease as soon as the facilitator of the supe
 
 If a process breakdown in a circle is not resolved within a reasonable timeframe, the facilitator of that circle's super-circle may declare a process breakdown in the super-circle as well.
 
-## ARTICLE V: OPERATIONAL PROCESS
+## ARTICLE V: ADOPTION MATTERS
 
-### 5.1 DUTIES OF CIRCLE MEMBERS
-
-When filling a role in a circle, you have the following duties to your fellow circle members when they're acting on behalf of other roles in the circle:
-
-#### 5.1.1 DUTY OF TRANSPARENCY
-
-You must provide transparency to your fellow circle members about your role's **current and future priorities** by updating the **playfield**.
-
-#### 5.1.2 DUTY OF PROCESSING
-
-**Requests** can be anything a circle member asks from your role. For instance, a circle member might
-
-- ask to impact your domain
-
-- ask you to do something that falls within the responsibility of your role
-
-- request information about your accountabilities
-
-- …
-
-You must process these requests within a reasonable time frame, either by taking action or by communicating to the requester why you did not take action upon the request.
-
-#### 5.1.3 IMPLICIT EXPECTATIONS HOLD NO WEIGHT
-
-Any implicit expectations that you hold towards other circle members regarding the processes defined in this constitution carry no weight.
-
-## ARTICLE VI: ADOPTION MATTERS
-
-### 6.1 RATIFIER CEDES AUTHORITY
+### 5.1 RATIFIER CEDES AUTHORITY
 
 By adopting this constitution, the **ratifier** (= CEO) cedes their authority to governand run Nothing or direct its crew members, and may no longer do so except through authority granted to them under the constitution's rules and processes. As an exception to this rule, the ratifier may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization's bylaws.
 
-### 6.2. CHANGES TO THE CONSTITUTION
+### 5.2. CHANGES TO THE CONSTITUTION
 
 The **bridge** (see section 3.7) has the authority to change the constitution. Proposed changes to the constitution are tensions which can be presented as proposals through the bridge's governance process. If a proposed change does not meet the criteria for valid proposals (section 4.2.2) but the bridge decides that the proposed change should be processed, the bridge has the authority to process the proposal regardless of its validity.
 
@@ -416,18 +394,18 @@ Governance output which changes the constitution does not automatically become v
 
 1. (a) The objector contacts the facilitator of the bridge as well as the original proposer of the change. The objector, the proposer, and the facilitator then integrate the objection.
 2. (b) The proposer brings the adapted proposal back to the bridge (either asynchronously or through a regular governance meeting).
-3. (c) Once the adapted proposal is accepted by the bridge, the interpreter communicates the adapted proposal to all crew members, who can respond to it following the process outlined in this section (6.2).
+3. (c) Once the adapted proposal is accepted by the bridge, the interpreter communicates the adapted proposal to all crew members, who can respond to it following the process outlined in this section (5.2).
 4. (d) As soon as a proposed change to the constitution raises no new objections, it becomes valid.
 
 For proposals that have already been exposed to all crew members in some form, the facilitator of the bridge may decide to lower the response time.
 
-### 6.4 LEGACY POLICIES AND SYSTEMS
+### 5.4 LEGACY POLICIES AND SYSTEMS
 
 Any existing policies and systems that are in effect before adopting this constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
 
 Any existing legacy policy or system may only be changed or extended by using the governance process defined in this constitution. As soon as governance is defined that replaces or contradicts legacy policies or systems, they lose all weight and authority. Crew members must be explicitly informed when this happens.
 
-### 6.5 CHANGING AND REVOKING THE CONSTITUTION
+### 5.5 CHANGING AND REVOKING THE CONSTITUTION
 
 The ratifier or their successor may revoke this constitution entirely, using whatever authority and process they relied upon to adopt it.
 
