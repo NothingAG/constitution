@@ -203,7 +203,7 @@ Proposals are considered adopted and change the governance of the circle only if
 
 Any circle member may make a proposal within a **governance meeting** of the circle called under the terms of section 4.3. Alternatively, a circle member may distribute a proposal to all other circle members separately, outside of a governance meeting, using any written communication channel approved for this purpose by the circle's interpreter. However, the circle's facilitator should be presented with the proposal first to determine whether it fulfils the criteria for valid proposals (section 4.2.2.).
 
-For this separate processing of proposals, the facilitator may either apply the same process and rules used within a governance meeting, or may allow each circle member to directly declare whether or not he or she has objections to integrate. Further, at any point before a separately distributed proposal is adopted, any circle member may stop the separate processing by requesting the proposer escalate the proposal to a governance meeting, and notifying the circle's interpreter.
+For this separate processing of proposals, the facilitator may either apply the same process and rules used within a governance meeting, or may allow each circle member to directly declare whether or not he or she has objections to integrate. Further, at any point before a separately distributed proposal is adopted, any circle member may stop the separate processing by requesting the proposer escalate the proposal to a governance meeting, and notifying the circle's facilitator.
 
 A circle may adopt policies to further constrain when or how proposals may be made or processed outside of a governance meeting. However, circle members are always allowed to escalate separate processing of a proposal to a governance meeting, and no policy may change that.
 
@@ -260,7 +260,7 @@ When an objection is raised, the following additional rules apply during the sea
 
 The governance process is enacted in governance meetings.
 
-The facilitator of a circle is responsible for scheduling governance meetings. In addition to any regular, recurring governance meetings the interpreter schedules, the interpreter is responsible for scheduling additional special governance meetings promptly upon request of any circle member. The facilitator is responsible for leading all governance meetings.
+The facilitator of a circle is responsible for scheduling governance meetings. In addition to any regular, recurring governance meetings the facilitator schedules, the facilitator is responsible for scheduling additional special governance meetings promptly upon request of any circle member. The facilitator is responsible for leading all governance meetings.
 
 #### 4.3.1 ATTENDANCE
 
